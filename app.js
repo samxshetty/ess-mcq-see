@@ -4287,6 +4287,1200 @@ class ESSQuizApp {
     question: "The goal of sustainability is to maintain balance among:",
     options: ["People, Planet, and Profit", "Power, Politics, and Population", "Production, Policy, and Price", "Energy, Economy, and Ecology"],
     correct: 0
+  },
+  {
+    id: 715,
+    question: "Which of the following is NOT a principle of the 3R concept?",
+    options: ["Refuel", "Reduce", "Reuse", "Recycle"],
+    correct: 0
+  },
+  {
+    id: 716,
+    question: "ISO 14040 standard deals with:",
+    options: ["Life Cycle Assessment framework", "Environmental auditing", "Energy labeling", "Wastewater treatment"],
+    correct: 0
+  },
+  {
+    id: 717,
+    question: "Which principle is central to green materials usage?",
+    options: ["Reuse, recycle, and reduce", "Importing expensive materials", "Using rare and exotic materials", "Focusing only on aesthetics"],
+    correct: 0
+  },
+  {
+    id: 718,
+    question: "Which international system certifies sustainable buildings apart from LEED?",
+    options: ["BREEAM", "ISO 14001", "BIS Standards", "NBC India"],
+    correct: 0
+  },
+  {
+    id: 719,
+    question: "Which practice improves water efficiency in green buildings?",
+    options: ["Greywater recycling", "Using more borewells", "Increasing water demand", "Avoiding rainwater harvesting"],
+    correct: 0
+  },
+  {
+    id: 720,
+    question: "Sustainable habitat aligns with which UN Sustainable Development Goal (SDG)?",
+    options: ["SDG 11 – Sustainable Cities and Communities", "SDG 7 – Affordable and Clean Energy", "SDG 3 – Good Health and Well-Being", "SDG 15 – Life on Land"],
+    correct: 0
+  },
+  {
+    id: 721,
+    question: "What are green materials?",
+    options: ["Environmentally friendly materials", "Synthetic polymers", "Non-renewable materials", "Radioactive materials"],
+    correct: 0
+  },
+  {
+    id: 722,
+    question: "Which of the following is a renewable material?",
+    options: ["Bamboo", "Steel", "PVC", "Glass"],
+    correct: 0
+  },
+  {
+    id: 723,
+    question: "The main goal of green materials is to _______.",
+    options: ["Minimize environmental impact", "Maximize energy use", "Increase pollution", "Increase cost"],
+    correct: 0
+  },
+  {
+    id: 724,
+    question: "Which of these is NOT an example of green material?",
+    options: ["PVC", "Bamboo", "Flyash", "Recycled glass"],
+    correct: 0
+  },
+  {
+    id: 725,
+    question: "Green materials are also known as:",
+    options: ["Eco-friendly materials", "Toxic materials", "Hazardous materials", "Rare materials"],
+    correct: 0
+  },
+  {
+    id: 726,
+    question: "What does VOC stand for in low-VOC paints?",
+    options: ["Volatile Organic Compounds", "Variable Oxygen Concentration", "Vaporized Organic Carbon", "Volume of Compound"],
+    correct: 0
+  },
+  {
+    id: 727,
+    question: "Which is NOT a phase of Life Cycle Assessment?",
+    options: ["Revenue generation", "Goal and scope definition", "Inventory analysis", "Impact assessment"],
+    correct: 0
+  },
+  {
+    id: 728,
+    question: "Fly ash is a by-product of ______.",
+    options: ["Coal Combustion", "Steel manufacturing", "Cement production", "Oil refining"],
+    correct: 0
+  },
+  {
+    id: 729,
+    question: "Which organization promotes green building certification in India?",
+    options: ["IGBC", "IRSE", "WHO", "BIS"],
+    correct: 0
+  },
+  {
+    id: 730,
+    question: "What is the major advantage of using bamboo in construction?",
+    options: ["Renewable and strong", "Expensive and rare", "High energy consumption", "Non-biodegradable"],
+    correct: 0
+  },
+  {
+    id: 731,
+    question: "Recycled steel is preferred because it ______.",
+    options: ["Reduces mining activities", "Increases cost", "Degrades quickly", "Is non-recyclable"],
+    correct: 0
+  },
+  {
+    id: 732,
+    question: "Green concrete commonly includes ______.",
+    options: ["Fly ash or GGBS", "Fresh cement", "Asbestos", "PVC powder"],
+    correct: 0
+  },
+  {
+    id: 733,
+    question: "The life-cycle assessment (LCA) of materials helps in ______.",
+    options: ["Measuring environmental impact", "Increasing pollution", "Ignoring disposal", "Enhancing toxicity"],
+    correct: 0
+  },
+  {
+    id: 734,
+    question: "Using local materials helps to ______.",
+    options: ["Reduce embodied energy", "Increase transport costs", "Increase carbon footprint", "Delay construction"],
+    correct: 0
+  },
+  {
+    id: 735,
+    question: "The term 'sustainable habit' refers to ______.",
+    options: ["Practices that reduce environmental impact", "Short-term luxury habits", "Actions that harm the planet", "Expensive lifestyles"],
+    correct: 0
+  },
+  {
+    id: 736,
+    question: "Which of the following reduces indoor air pollution?",
+    options: ["Low-VOC paints", "Synthetic adhesives", "Plastic coating", "Asbestos tiles"],
+    correct: 0
+  },
+  {
+    id: 737,
+    question: "Hempcrete is made from ______.",
+    options: ["Hemp fibers and lime", "Plastic and cement", "Sand and PVC", "Coal ash and gypsum"],
+    correct: 0
+  },
+  {
+    id: 738,
+    question: "Functional unit in LCA represents:",
+    options: ["Standardized measure of service/product performance", "Total cost of product", "The emission per factory", "Recyclable component"],
+    correct: 0
+  },
+  {
+    id: 739,
+    question: "Green buildings are primarily designed to ______.",
+    options: ["Enhance comfort and save resources", "Consume maximum energy", "Use non-renewable materials", "Promote deforestation"],
+    correct: 0
+  },
+  {
+    id: 740,
+    question: "GRIHA rating system is developed in which country?",
+    options: ["India", "USA", "UK", "Germany"],
+    correct: 0
+  },
+  {
+    id: 741,
+    question: "Which of the following is NOT a sustainable habit?",
+    options: ["Use of Single use plastics", "Reusing bottles", "Segregating waste", "Conserving water"],
+    correct: 0
+  },
+  {
+    id: 742,
+    question: "The main source of cork is ______.",
+    options: ["Oak tree bark", "Bamboo root", "Palm leaf", "Coconut shell"],
+    correct: 0
+  },
+  {
+    id: 743,
+    question: "Which gas emission is most reduced by using green materials?",
+    options: ["Carbon dioxide", "Nitrous oxide", "CO2", "Hydrogen"],
+    correct: 0
+  },
+  {
+    id: 744,
+    question: "LEED certification mainly evaluates ______.",
+    options: ["Energy and environmental performance", "Aesthetic design", "Cost alone", "Only safety standards"],
+    correct: 0
+  },
+  {
+    id: 745,
+    question: "The process of converting waste into reusable material is known as ______.",
+    options: ["Recycling", "Disposal", "Incineration", "Extraction"],
+    correct: 0
+  },
+  {
+    id: 746,
+    question: "Using daylight instead of artificial lighting saves ______.",
+    options: ["Energy", "Time", "Cost only", "Paint"],
+    correct: 0
+  },
+  {
+    id: 747,
+    question: "Green roofs help in ______.",
+    options: ["Reducing urban heat island effect", "Increasing heat gain", "Increasing carbon footprint", "Causing soil erosion"],
+    correct: 0
+  },
+  {
+    id: 748,
+    question: "Which of the following is an industrial by-product used in cement?",
+    options: ["Fly ash", "Plastic powder", "PVC", "Nylon fiber"],
+    correct: 0
+  },
+  {
+    id: 749,
+    question: "'Cradle-to-grave' assessment includes:",
+    options: ["Extraction to disposal", "Recycling only", "Use phase only", "Transport emissions only"],
+    correct: 0
+  },
+  {
+    id: 750,
+    question: "What is the main barrier to using green materials widely?",
+    options: ["Lack of awareness", "High strength", "Abundance", "Government rules"],
+    correct: 0
+  },
+  {
+    id: 751,
+    question: "Sustainable living aims to balance ______.",
+    options: ["Economy, society, and environment", "Industry and politics", "Cost and luxury", "Business and marketing"],
+    correct: 0
+  },
+  {
+    id: 752,
+    question: "Energy efficiency can be defined as:",
+    options: ["Using less energy to perform the same task", "Using more energy to achieve higher output", "Using renewable energy only", "Reducing the amount of work done"],
+    correct: 0
+  },
+  {
+    id: 753,
+    question: "Which of the following is NOT a benefit of energy efficiency?",
+    options: ["Increase artificial lighting use", "Reduces operational cost", "Improves comfort and productivity", "Reduces energy demand"],
+    correct: 0
+  },
+  {
+    id: 754,
+    question: "Energy efficiency contributes to:",
+    options: ["Sustainable Development", "Climate change", "Increased pollution", "Energy wastage"],
+    correct: 0
+  },
+  {
+    id: 755,
+    question: "Passive design principles are used primarily to:",
+    options: ["Reduce energy use through natural means", "Reduce energy use through artificial means", "Increase building height", "Reduce construction cost"],
+    correct: 0
+  },
+  {
+    id: 756,
+    question: "The orientation of a building affects:",
+    options: ["Solar gain and lighting", "Structural stability only", "Plumbing designs", "Material durability"],
+    correct: 0
+  },
+  {
+    id: 757,
+    question: "Energy-efficient HVAC systems include:",
+    options: ["Variable Refrigerant Flow (VRF) systems", "Window air coolers", "Fixed-speed fans", "Ceiling fans only"],
+    correct: 0
+  },
+  {
+    id: 758,
+    question: "A motion sensor in lighting systems helps by:",
+    options: ["Turning lights off automatically when not needed", "Increasing energy use", "Reducing light brightness", "Changing color temperature"],
+    correct: 0
+  },
+  {
+    id: 759,
+    question: "Integration of solar panels and wind energy in buildings promotes:",
+    options: ["Renewable energy use and self-sufficiency", "Energy conservation only", "Power grid dependency", "Structural instability"],
+    correct: 0
+  },
+  {
+    id: 760,
+    question: "ISO 14001 primarily relates to:",
+    options: ["Environmental management systems", "Occupational health and safety", "Product quality standards", "Energy audits"],
+    correct: 0
+  },
+  {
+    id: 761,
+    question: "A building that produces as much energy as it consumes is called:",
+    options: ["Net Zero Energy Building", "Passive house", "Zero energy building", "Green roof structure"],
+    correct: 0
+  },
+  {
+    id: 762,
+    question: "In transport, energy efficiency can be achieved through:",
+    options: ["Use of electric and hybrid vehicles", "Poor road design", "More private vehicles", "Removing public transport"],
+    correct: 0
+  },
+  {
+    id: 763,
+    question: "Intelligent Transport Systems (ITS) help by:",
+    options: ["Optimizing traffic and fuel usage", "Increasing traffic congestion", "Removing signals", "Encouraging idling vehicles"],
+    correct: 0
+  },
+  {
+    id: 764,
+    question: "The Bureau of Energy Efficiency (BEE) in India provides:",
+    options: ["Star rating system for appliances", "Building safety codes", "Environmental clearance", "Construction permits"],
+    correct: 0
+  },
+  {
+    id: 765,
+    question: "GRIHA rating system was developed by:",
+    options: ["TERI and MNRE", "BIS", "IIT Delhi", "Indian Green Building Council"],
+    correct: 0
+  },
+  {
+    id: 766,
+    question: "ISO 50001 is related to:",
+    options: ["Energy management systems", "Environmental management", "Quality management", "Occupational safety"],
+    correct: 0
+  },
+  {
+    id: 767,
+    question: "Which of the following technologies enhances lighting efficiency?",
+    options: ["LED fixtures with daylight sensors", "Incandescent lamps", "Halogen bulbs", "Neon lighting"],
+    correct: 0
+  },
+  {
+    id: 768,
+    question: "Energy-efficient water heating can be achieved using:",
+    options: ["Solar water heaters", "Electric immersion heaters", "Gas-fired boilers only", "Diesel generators"],
+    correct: 0
+  },
+  {
+    id: 769,
+    question: "Which of the following is an example of active transport?",
+    options: ["Metro train", "Walking and cycling", "Electric bus", "Ride-sharing apps"],
+    correct: 0
+  },
+  {
+    id: 770,
+    question: "EV stands for:",
+    options: ["Electric Vehicle", "Energy Vehicle", "Environmental Vehicle", "Eco Value"],
+    correct: 0
+  },
+  {
+    id: 771,
+    question: "Carbon footprint assessment is an example of:",
+    options: ["LCA impact assessment", "Environmental audit", "Cost–benefit analysis", "Green building certification"],
+    correct: 0
+  },
+  {
+    id: 772,
+    question: "Which country uses congestion pricing as a sustainable transport strategy?",
+    options: ["Sweden (Stockholm)", "India", "Brazil", "Kenya"],
+    correct: 0
+  },
+  {
+    id: 773,
+    question: "What is Transit-Oriented Development (TOD)?",
+    options: ["Planning housing and activities around public transport systems", "Development based on shopping malls", "Building more highways for cars", "Development focused on airports"],
+    correct: 0
+  },
+  {
+    id: 774,
+    question: "Which is NOT an alternative fuel vehicle?",
+    options: ["Petrol cars", "Hydrogen fuel cell buses", "Hybrid cars", "Electric cars"],
+    correct: 0
+  },
+  {
+    id: 775,
+    question: "Which of the following improves air quality and reduces congestion?",
+    options: ["Expanded public transit networks", "Increased car ownership", "Unregulated parking", "Removing pedestrian walkways"],
+    correct: 0
+  },
+  {
+    id: 776,
+    question: "Which of the following cities is a global example of integrated sustainable transport?",
+    options: ["Zurich, Switzerland", "Los Angeles, USA", "Dubai, UAE", "Lagos, Nigeria"],
+    correct: 0
+  },
+  {
+    id: 777,
+    question: "Which economic benefit is linked to sustainable transport?",
+    options: ["Reduced oil import costs", "High healthcare costs", "Increased fuel dependency", "Larger road maintenance bills"],
+    correct: 0
+  },
+  {
+    id: 778,
+    question: "Which technological tool is part of sustainable transport?",
+    options: ["Intelligent Transport Systems (ITS)", "High-pollution engines", "Old diesel buses", "Overloaded trucks"],
+    correct: 0
+  },
+  {
+    id: 779,
+    question: "What is the main financial barrier to sustainable transport projects?",
+    options: ["High initial investment for infrastructure", "Lack of labour", "Low fuel costs", "Excess land availability"],
+    correct: 0
+  },
+  {
+    id: 780,
+    question: "Shared mobility includes:",
+    options: ["Car-pooling and bike-sharing", "Taxi ownership", "Buying personal vehicles", "Transporting only goods"],
+    correct: 0
+  },
+  {
+    id: 781,
+    question: "Non-conventional energy sources are primarily used to:",
+    options: ["Reduce environmental impact and promote sustainability", "Increase fossil fuel use", "Generate nuclear energy", "Reduce water consumption"],
+    correct: 0
+  },
+  {
+    id: 782,
+    question: "In LCA, midpoint indicators measure:",
+    options: ["Cause-effect chain at problem level", "Socio-economic effects", "Direct financial savings", "Biodiversity conservation"],
+    correct: 0
+  },
+  {
+    id: 783,
+    question: "Which of the following is a solar energy technology?",
+    options: ["Photovoltaic cells", "Biomass gasification", "Tidal turbines", "Geothermal heat pumps"],
+    correct: 0
+  },
+  {
+    id: 784,
+    question: "Solar thermal systems convert sunlight into:",
+    options: ["Heat energy", "Electricity only", "Wind energy", "Mechanical energy"],
+    correct: 0
+  },
+  {
+    id: 785,
+    question: "Which of the following is an advantage of solar energy?",
+    options: ["Renewable and clean", "High operational costs", "Intermittent supply", "Requires fossil fuels"],
+    correct: 0
+  },
+  {
+    id: 786,
+    question: "Wind energy is obtained by converting:",
+    options: ["Kinetic energy of moving air into electricity", "Solar radiation into electricity", "Chemical energy of biomass", "Ocean thermal energy"],
+    correct: 0
+  },
+  {
+    id: 787,
+    question: "The main component of a wind energy system is:",
+    options: ["Wind turbine", "Solar panel", "Hydroelectric dam", "Fuel cell"],
+    correct: 0
+  },
+  {
+    id: 788,
+    question: "Biomass energy is derived from:",
+    options: ["Organic matter such as plant and animal waste", "Fossil fuels", "Tidal movements", "Geothermal heat"],
+    correct: 0
+  },
+  {
+    id: 789,
+    question: "Which of the following is a biofuel?",
+    options: ["Ethanol", "Diesel", "Coal", "Natural gas"],
+    correct: 0
+  },
+  {
+    id: 790,
+    question: "Small-scale hydropower typically generates electricity of:",
+    options: ["Less than 10 MW", "50-100 MW", "100-500 MW", "More than 1000 MW"],
+    correct: 0
+  },
+  {
+    id: 791,
+    question: "Geothermal energy utilizes:",
+    options: ["Heat from the Earth's crust", "Sunlight", "Wind", "Biomass combustion"],
+    correct: 0
+  },
+  {
+    id: 792,
+    question: "Hydrogen energy is used in:",
+    options: ["Fuel cells", "Solar panels", "Wind turbines", "Biomass combustion"],
+    correct: 0
+  },
+  {
+    id: 793,
+    question: "Which of the following is a limitation of LCA?",
+    options: ["It requires assumptions and large data", "It ignores energy consumption", "It cannot compare materials", "It cannot be standardized"],
+    correct: 0
+  },
+  {
+    id: 794,
+    question: "Which of the following is a challenge for solar energy?",
+    options: ["Intermittency due to weather conditions", "Stable supply", "Low installation cost", "Constant energy generation"],
+    correct: 0
+  },
+  {
+    id: 795,
+    question: "Wind energy is best suited for:",
+    options: ["Areas with high wind speeds", "Coastal and desert areas only", "Underground installations", "Dense forests"],
+    correct: 0
+  },
+  {
+    id: 796,
+    question: "Geothermal power plants require:",
+    options: ["Geothermal hotspots", "Large land area", "High wind speed", "Sunlight"],
+    correct: 0
+  },
+  {
+    id: 797,
+    question: "Hydrogen as a fuel produces:",
+    options: ["Water as by-product", "Carbon dioxide", "Methane", "Sulfur dioxide"],
+    correct: 0
+  },
+  {
+    id: 798,
+    question: "Non-conventional energy sources help achieve which UN SDG?",
+    options: ["SDG 7 – Affordable and Clean Energy", "SDG 1 – No Poverty", "SDG 13 – Climate Action", "Both b and c"],
+    correct: 0
+  },
+  {
+    id: 799,
+    question: "A hybrid renewable energy system combines:",
+    options: ["Two or more non-conventional energy sources", "Fossil fuel and nuclear energy", "Wind and coal", "Biomass and diesel only"],
+    correct: 0
+  },
+  {
+    id: 800,
+    question: "The carbon cycle is primarily concerned with the movement of carbon between:",
+    options: ["Atmosphere, biosphere, hydrosphere, and lithosphere", "Living organisms and the moon", "Plants and sunlight only", "Soil and metals"],
+    correct: 0
+  },
+  {
+    id: 801,
+    question: "Which of the following human activities increases the amount of CO₂ in the atmosphere?",
+    options: ["Combustion of fossil fuels", "Afforestation", "Photosynthesis", "Soil conservation"],
+    correct: 0
+  },
+  {
+    id: 802,
+    question: "Oceans help regulate the carbon cycle by:",
+    options: ["Absorbing and storing CO₂ from the atmosphere", "Blocking sunlight", "Increasing fossil fuel burning", "Reducing photosynthesis"],
+    correct: 0
+  },
+  {
+    id: 803,
+    question: "Which of the following is a sustainable practice for maintaining the carbon cycle balance?",
+    options: ["Reforestation and renewable energy use", "Use of coal-based power plants", "Deforestation", "Industrialization without emission control"],
+    correct: 0
+  },
+  {
+    id: 804,
+    question: "EIA is mandated in India under which Act?",
+    options: ["Environment Protection Act 1986", "Air Act 1981", "Water Act 1974", "Factories Act 1948"],
+    correct: 0
+  },
+  {
+    id: 805,
+    question: "The largest long-term carbon reservoir on Earth is:",
+    options: ["Oceans and sedimentary rocks", "Atmosphere", "Forests", "Animals"],
+    correct: 0
+  },
+  {
+    id: 806,
+    question: "Why is the carbon cycle essential for sustainability?",
+    options: ["It regulates energy flow and maintains climate balance", "It ensures continuous supply of metals", "It increases global temperatures", "It reduces biodiversity"],
+    correct: 0
+  },
+  {
+    id: 807,
+    question: "The shift from agrarian to service-based economy is an example of:",
+    options: ["Economic transformation", "Political change", "Social transformation", "Cultural change"],
+    correct: 0
+  },
+  {
+    id: 808,
+    question: "Which of the following best explains the 'digital divide'?",
+    options: ["Unequal access to digital technologies", "Gap between rich and poor", "Difference in literacy levels", "Difference in cultural practices"],
+    correct: 0
+  },
+  {
+    id: 809,
+    question: "Which is NOT a positive impact of technological change?",
+    options: ["Cultural homogenization", "Better healthcare", "Increased productivity", "Improved communication"],
+    correct: 0
+  },
+  {
+    id: 810,
+    question: "Green technologies mainly aim at:",
+    options: ["Reducing pollution and environmental harm", "Increasing industrial profits only", "Replacing humans with robots", "Expanding military power"],
+    correct: 0
+  },
+  {
+    id: 811,
+    question: "Which revolution is associated with digital technologies?",
+    options: ["IT Revolution", "Industrial Revolution", "Green Revolution", "Agricultural Revolution"],
+    correct: 0
+  },
+  {
+    id: 812,
+    question: "Which of the following is an example of economic inequality caused by technology?",
+    options: ["Unequal access to internet", "Online education", "Social media use", "Cultural festivals"],
+    correct: 0
+  },
+  {
+    id: 813,
+    question: "Which social factor influences technological change?",
+    options: ["Consumer needs", "Political conflicts", "Language differences", "Climate"],
+    correct: 0
+  },
+  {
+    id: 814,
+    question: "Which of the following is NOT a socio-economic change?",
+    options: ["Invention of smartphone", "Increase in literacy", "Migration", "Gender equality movements"],
+    correct: 0
+  },
+  {
+    id: 815,
+    question: "Scoping in EIA refers to:",
+    options: ["Identifying potential impacts and issues", "Monitoring post-project impacts", "Auditing industrial waste", "Licensing industries"],
+    correct: 0
+  },
+  {
+    id: 816,
+    question: "Which is a negative impact of socio-economic and technological change?",
+    options: ["Job displacement", "Enhanced productivity", "Improved healthcare", "Better connectivity"],
+    correct: 0
+  },
+  {
+    id: 817,
+    question: "The spread of internet worldwide is an example of:",
+    options: ["Technological diffusion", "Cultural change", "Economic transformation", "Social inequality"],
+    correct: 0
+  },
+  {
+    id: 818,
+    question: "Which of the following best represents socio-economic transformation in India?",
+    options: ["Growth of IT and service sector", "Adoption of 5G technology", "Discovery of iron ore", "Expansion of British colonial rule"],
+    correct: 0
+  },
+  {
+    id: 819,
+    question: "Balanced socio-economic and technological changes require:",
+    options: ["Sustainable policies and innovations", "More industrialization only", "Ignoring cultural traditions", "Total dependence on machines"],
+    correct: 0
+  },
+  {
+    id: 820,
+    question: "Why is composting important in zero-waste practices?",
+    options: ["It turns organic waste into useful soil", "It helps food waste go to landfill", "It burns waste efficiently", "It stops plants from growing"],
+    correct: 0
+  },
+  {
+    id: 821,
+    question: "The four main phases of a Life Cycle Assessment, as defined by the ISO 14040 standard, are:",
+    options: ["Goal and Scope Definition, Life Cycle Inventory (LCI), Life Cycle Impact Assessment (LCIA), and Interpretation", "Environmental Policy, Planning, Implementation, and Review", "Resource Extraction, Manufacturing, Use, and End-of-Life", "Auditing, Monitoring, Evaluation, and Communication"],
+    correct: 0
+  },
+  {
+    id: 822,
+    question: "Which phase of the LCA involves collecting data on all the inputs (resources, energy) and outputs (emissions, waste) for a product system?",
+    options: ["Life Cycle Inventory (LCI)", "Goal and Scope Definition", "Life Cycle Impact Assessment (LCIA)", "Interpretation"],
+    correct: 0
+  },
+  {
+    id: 823,
+    question: "The ISO 14044 standard includes requirements and guidelines for which of the following?",
+    options: ["Reporting and critical review of an LCA", "Environmental labeling and declarations", "Designing and implementing an Environmental Management System (EMS)", "Calculating an organization's greenhouse gas emissions"],
+    correct: 0
+  },
+  {
+    id: 824,
+    question: "When ISO standards were first created, the ISO 14000 family was established in what year?",
+    options: ["1996", "1978", "1968", "2006"],
+    correct: 0
+  },
+  {
+    id: 825,
+    question: "Zero waste strategy aims at:",
+    options: ["Complete elimination of waste generation", "Reducing cost of production", "Producing energy from waste", "Using only renewable resources"],
+    correct: 0
+  },
+  {
+    id: 826,
+    question: "Which of the following is a limitation of EIA?",
+    options: ["Cannot predict cumulative impacts accurately", "Prevents pollution", "Protects biodiversity", "Encourages renewable use"],
+    correct: 0
+  },
+  {
+    id: 827,
+    question: "Which standard series focuses on environmental labels and declarations, a concept closely related to LCA?",
+    options: ["ISO 14020–14025", "ISO 14001", "ISO 14031", "ISO 14064"],
+    correct: 0
+  },
+  {
+    id: 828,
+    question: "Which ISO standard sets the requirements for an Environmental Management System (EMS) and is certifiable?",
+    options: ["ISO 14001", "ISO 14004", "ISO 14040", "ISO 14050"],
+    correct: 0
+  },
+  {
+    id: 829,
+    question: "Rapid EIA refers to assessment within:",
+    options: ["3 months", "1 week", "6 months", "1 year"],
+    correct: 0
+  },
+  {
+    id: 830,
+    question: "Social impact assessment (SIA) is usually part of:",
+    options: ["EIA", "LCA", "ISO 9001", "Green building certification"],
+    correct: 0
+  },
+  {
+    id: 831,
+    question: "Which one is NOT an EIA methodology?",
+    options: ["Pareto chart", "Checklist method", "Overlay mapping", "Network method"],
+    correct: 0
+  },
+  {
+    id: 832,
+    question: "The public hearing stage in EIA is important for:",
+    options: ["Transparency and participation", "Industrial profit", "Technical validation only", "Environmental clearance bypass"],
+    correct: 0
+  },
+  {
+    id: 833,
+    question: "Which rating system is used in India for green buildings?",
+    options: ["GRIHA", "LEED", "BREEAM", "WELL"],
+    correct: 0
+  },
+  {
+    id: 834,
+    question: "Fly ash bricks are considered a:",
+    options: ["Green building material", "Hazardous material", "Non-renewable material", "Synthetic material"],
+    correct: 0
+  },
+  {
+    id: 835,
+    question: "Which of the following is NOT a feature of green buildings?",
+    options: ["High embodied energy materials", "Natural lighting", "Energy efficiency", "Rainwater harvesting"],
+    correct: 0
+  },
+  {
+    id: 836,
+    question: "Embodied energy of a material refers to:",
+    options: ["Total energy consumed during production, transport, and installation", "Energy used in lighting the building", "Operational energy", "Energy saved through recycling"],
+    correct: 0
+  },
+  {
+    id: 837,
+    question: "The concept of passive solar design in buildings aims to:",
+    options: ["Minimize use of air conditioning", "Increase fossil fuel dependence", "Reduce natural lighting", "Increase artificial heating"],
+    correct: 0
+  },
+  {
+    id: 838,
+    question: "In circular economy, the main focus is on:",
+    options: ["Product reuse and resource efficiency", "Linear consumption of resources", "Increasing fossil fuel use", "Exporting waste to other countries"],
+    correct: 0
+  },
+  {
+    id: 839,
+    question: "Which material has the highest embodied energy?",
+    options: ["Glass", "Cement", "Timber", "Brick"],
+    correct: 0
+  },
+  {
+    id: 840,
+    question: "Net-zero energy buildings are those that:",
+    options: ["Produce as much energy as they consume", "Do not use any energy", "Are built with only recycled materials", "Generate energy from fossil fuels"],
+    correct: 0
+  },
+  {
+    id: 841,
+    question: "Which is the most sustainable transport mode among the following?",
+    options: ["Bicycle", "Car", "Bus", "Airplane"],
+    correct: 0
+  },
+  {
+    id: 842,
+    question: "The primary aim of sustainable transport is:",
+    options: ["Reducing carbon emissions and congestion", "Promoting private vehicle ownership", "Building more highways", "Encouraging air travel"],
+    correct: 0
+  },
+  {
+    id: 843,
+    question: "Electric vehicles are more sustainable mainly because:",
+    options: ["They have zero tailpipe emissions", "They are cheaper than petrol cars", "They require no energy input", "They increase fossil fuel demand"],
+    correct: 0
+  },
+  {
+    id: 844,
+    question: "Which of the following is NOT a non-conventional energy source?",
+    options: ["Nuclear", "Solar", "Wind", "Biomass"],
+    correct: 0
+  },
+  {
+    id: 845,
+    question: "Hydrogen fuel cells produce electricity with by-product:",
+    options: ["Water", "CO₂", "Sulphur", "Methane"],
+    correct: 0
+  },
+  {
+    id: 846,
+    question: "Energy cycle related to emission and sequestration mainly refers to:",
+    options: ["Carbon cycle", "Sulphur cycle", "Nitrogen cycle", "Phosphorus cycle"],
+    correct: 0
+  },
+  {
+    id: 847,
+    question: "Carbon sequestration can be enhanced by:",
+    options: ["Afforestation", "Deforestation", "Mining activities", "Burning fossil fuels"],
+    correct: 0
+  },
+  {
+    id: 848,
+    question: "Which renewable source is most location-specific?",
+    options: ["Tidal", "Solar", "Wind", "Biomass"],
+    correct: 0
+  },
+  {
+    id: 849,
+    question: "The linear economy model follows which sequence?",
+    options: ["Extract–Produce–Dispose", "Make–Use–Recycle", "Reuse–Recycle–Remanufacture", "Reduce–Reuse–Recycle"],
+    correct: 0
+  },
+  {
+    id: 850,
+    question: "Which technology is most suitable for decentralized rural electrification?",
+    options: ["Solar PV", "Nuclear", "Coal-fired power", "Gas turbines"],
+    correct: 0
+  },
+  {
+    id: 851,
+    question: "Green engineering primarily aims at:",
+    options: ["Designing products and processes with minimal environmental impact", "Maximizing profit", "Increasing fossil fuel efficiency", "Reducing labor cost"],
+    correct: 0
+  },
+  {
+    id: 852,
+    question: "Eco-design principle in green engineering emphasizes:",
+    options: ["Design for environment", "Design for waste", "Design for rapid obsolescence", "Design for profit"],
+    correct: 0
+  },
+  {
+    id: 853,
+    question: "Sustainable urbanization is MOST closely linked with:",
+    options: ["Smart cities concept", "Overpopulation", "Industrialization", "Urban sprawl"],
+    correct: 0
+  },
+  {
+    id: 854,
+    question: "Which UN goal focuses on sustainable cities and communities?",
+    options: ["SDG 11", "SDG 9", "SDG 10", "SDG 13"],
+    correct: 0
+  },
+  {
+    id: 855,
+    question: "Mixed land use planning in cities helps in:",
+    options: ["Reducing commuting distances", "Encouraging automobile use", "Increasing pollution", "Decreasing walkability"],
+    correct: 0
+  },
+  {
+    id: 856,
+    question: "Socio-economic sustainability in cities includes:",
+    options: ["All of the above", "Housing for all", "Access to healthcare and education", "Employment opportunities"],
+    correct: 0
+  },
+  {
+    id: 857,
+    question: "Which urban transport strategy reduces emissions most effectively?",
+    options: ["Carpooling", "Free parking zones", "Express highways", "Fuel subsidies"],
+    correct: 0
+  },
+  {
+    id: 858,
+    question: "One key principle of sustainable urban development is:",
+    options: ["Compact city design", "Higher waste generation", "Increasing car ownership", "Relocation of industries only"],
+    correct: 0
+  },
+  {
+    id: 859,
+    question: "Which factor is NOT directly linked with sustainable urbanization?",
+    options: ["Higher consumerism", "Renewable energy adoption", "Energy-efficient buildings", "Urban greenery"],
+    correct: 0
+  },
+  {
+    id: 860,
+    question: "'Cradle-to-cradle' approach is linked with:",
+    options: ["Circular economy", "Linear economy", "Fossil energy use", "Urban sprawl"],
+    correct: 0
+  },
+  {
+    id: 861,
+    question: "Which is an example of technological change for sustainable cities?",
+    options: ["All of the above", "Solar rooftops", "Smart grids", "Electric mobility"],
+    correct: 0
+  },
+  {
+    id: 862,
+    question: "A city that reuses treated wastewater for irrigation follows:",
+    options: ["Zero waste principle", "EIA", "Fossil economy", "ISO 9000"],
+    correct: 0
+  },
+  {
+    id: 863,
+    question: "Which combination best ensures low-carbon concrete?",
+    options: ["OPC + Fly Ash + GGBS", "OPC + Plastic", "OPC + Sand + Steel", "OPC + Limestone only"],
+    correct: 0
+  },
+  {
+    id: 864,
+    question: "'Waste-to-energy plants' fall under which sustainability practice?",
+    options: ["Circular economy", "Green engineering", "Green transport", "ISO 14040"],
+    correct: 0
+  },
+  {
+    id: 865,
+    question: "The major drawback of solar PV is:",
+    options: ["Intermittent power generation", "No emissions", "Scalability", "Easy installation"],
+    correct: 0
+  },
+  {
+    id: 866,
+    question: "In urban mobility, BRTS stands for:",
+    options: ["Bus Rapid Transit System", "Bio Renewable Transport Strategy", "Built Renewable Transport Scheme", "Battery Recycling Transport System"],
+    correct: 0
+  },
+  {
+    id: 867,
+    question: "Which is an example of sequestration technology?",
+    options: ["Direct air capture", "Steel production", "Coal mining", "Fossil fuel burning"],
+    correct: 0
+  },
+  {
+    id: 868,
+    question: "Life cycle cost analysis of a building would include:",
+    options: ["Operation, maintenance, and disposal cost", "Initial cost only", "Decoration cost only", "Land cost only"],
+    correct: 0
+  },
+  {
+    id: 869,
+    question: "Which one is a socio-economic benefit of green buildings?",
+    options: ["All of the above", "Reduced health costs", "Increased productivity", "Better indoor air quality"],
+    correct: 0
+  },
+  {
+    id: 870,
+    question: "Which practice directly aligns with 'Green Engineering'?",
+    options: ["Designing biodegradable plastics", "Burning fossil fuels efficiently", "Using asbestos in construction", "Landfilling industrial waste"],
+    correct: 0
+  },
+  {
+    id: 871,
+    question: "Which international organization popularized the concept of circular economy?",
+    options: ["Ellen MacArthur Foundation", "UNDP", "World Bank", "UNEP"],
+    correct: 0
+  },
+  {
+    id: 872,
+    question: "Sustainable development is best described as:",
+    options: ["Meeting present needs without compromising future generations", "Unlimited growth at any cost", "Maximum profit orientation", "Exclusive use of fossil fuels"],
+    correct: 0
+  },
+  {
+    id: 873,
+    question: "What is the primary difference in scope between zero waste and the circular economy?",
+    options: ["Zero waste focuses on waste minimization at the endpoint, while the circular economy addresses the entire life cycle, including product design.", "Zero waste focuses exclusively on recycling, while the circular economy focuses on repair.", "Zero waste is an environmental movement, while the circular economy is only an economic model.", "Zero waste applies only to consumer behaviour, while the circular economy applies only to businesses."],
+    correct: 0
+  },
+  {
+    id: 874,
+    question: "What is the main goal of the Zero Waste lifestyle?",
+    options: ["To avoid creating any waste at all", "To recycle more plastic", "To throw waste in landfills properly", "To burn waste to generate energy"],
+    correct: 0
+  },
+  {
+    id: 875,
+    question: "Which of the following is the correct order of the 5R Concept?",
+    options: ["Refuse, Reduce, Reuse, Recycle, Rot", "Reuse, Reduce, Refuse, Rot, Recycle", "Reduce, Recycle, Refuse, Rot, Reuse", "Recycle, Rot, Reduce, Reuse, Refuse"],
+    correct: 0
+  },
+  {
+    id: 876,
+    question: "How does the Circular Economy help the environment?",
+    options: ["By keeping materials in use and reducing waste", "By encouraging people to buy more new products", "By creating more waste through production", "By increasing single-use plastic items"],
+    correct: 0
+  },
+  {
+    id: 877,
+    question: "How are the 5R Concept, Zero Waste, and Circular Economy related?",
+    options: ["They all aim to reduce waste and protect the environment", "They all focus on increasing consumer spending", "They promote throwing away waste quickly", "They focus only on recycling plastic"],
+    correct: 0
+  },
+  {
+    id: 878,
+    question: "The traditional, linear economy is a 'take-make-dispose' system. How is the circular economy different?",
+    options: ["It keeps resources in use for as long as possible.", "It focuses only on recycling.", "It relies on incinerating waste for energy.", "It encourages using new, raw materials."],
+    correct: 0
+  },
+  {
+    id: 879,
+    question: "What is the primary goal of the zero-waste philosophy?",
+    options: ["To prevent all waste from going to a landfill.", "To create as much recyclable waste as possible", "To sell all waste to other countries", "To only use organic materials."],
+    correct: 0
+  },
+  {
+    id: 880,
+    question: "What does 'Rot' refer to in the 5R concept?",
+    options: ["Composting organic waste", "Letting food spoil", "Burning waste", "Leaving trash to decompose in landfills"],
+    correct: 0
+  },
+  {
+    id: 881,
+    question: "What is the main difference between a circular economy and a linear economy?",
+    options: ["Circular economy keeps resources in use longer", "Linear economy reuses everything", "Circular economy encourages pollution", "Linear economy avoids using natural resources"],
+    correct: 0
+  },
+  {
+    id: 882,
+    question: "Industrial symbiosis in circular economy refers to:",
+    options: ["Sharing of waste/resources among industries", "Disposal of waste in landfills", "Building energy-efficient homes", "Offsetting carbon emissions"],
+    correct: 0
+  },
+  {
+    id: 883,
+    question: "Which R comes after 'Reduce' in the 5R concept?",
+    options: ["Reuse", "Rot", "Recycle", "Refuse"],
+    correct: 0
+  },
+  {
+    id: 884,
+    question: "What is one of the key goals of a circular economy?",
+    options: ["Keep materials and products in use", "Design products that are hard to recycle", "Use resources once and discard", "Increase production waste"],
+    correct: 0
+  },
+  {
+    id: 885,
+    question: "Which of the following is not a benefit of circular economy?",
+    options: ["Increasing landfill usage", "Saving natural resources", "Reducing waste", "Protecting the environment"],
+    correct: 0
+  },
+  {
+    id: 886,
+    question: "What does the 'Zero' in Zero Waste mean?",
+    options: ["Producing no waste that goes to landfill", "Using no electricity", "Producing no food", "Never buying anything"],
+    correct: 0
+  },
+  {
+    id: 887,
+    question: "Which of these is a key principle of the circular economy?",
+    options: ["Regenerate natural systems", "Design for landfilling", "Use as many materials as possible", "Produce waste to boost economy"],
+    correct: 0
+  },
+  {
+    id: 888,
+    question: "In the circular economy, what should happen at the end of a product's life?",
+    options: ["It should be reused, repaired, or recycled", "It should be incinerated", "It should be buried in landfills", "It should be exported"],
+    correct: 0
+  },
+  {
+    id: 889,
+    question: "What is the primary purpose of a Material Life Cycle Assessment (LCA)?",
+    options: ["To evaluate environmental impacts throughout the material's life", "To analyse production cost", "To assess product quality", "To estimate product lifespan"],
+    correct: 0
+  },
+  {
+    id: 890,
+    question: "Material LCA is a subset of which broader concept?",
+    options: ["Product LCA", "Environmental Audit", "Cost Benefit Analysis", "Material Testing"],
+    correct: 0
+  },
+  {
+    id: 891,
+    question: "The 'cradle-to-grave' approach in LCA covers:",
+    options: ["From material extraction to disposal or recycling", "Only raw material extraction", "Only product use phase", "Only transportation and manufacturing"],
+    correct: 0
+  },
+  {
+    id: 892,
+    question: "A 'Zero-waste city' ensures:",
+    options: ["100% recycling and recovery of materials", "100% incineration of waste", "Disposal in controlled landfills", "More energy consumption"],
+    correct: 0
+  },
+  {
+    id: 893,
+    question: "Which of the following is NOT a stage of a material's life cycle?",
+    options: ["Marketing and Sales", "Material Processing", "Raw Material Acquisition", "End-of-Life"],
+    correct: 0
+  },
+  {
+    id: 894,
+    question: "Which stage is often considered a 'hotspot' for energy use and ecosystem damage?",
+    options: ["Raw Material Acquisition", "Use phase", "End-of-Life", "Manufacturing"],
+    correct: 0
+  },
+  {
+    id: 895,
+    question: "Recycling in a material life cycle is considered:",
+    options: ["Least favourable", "Most favourable", "Neutral", "Costly but necessary"],
+    correct: 0
+  },
+  {
+    id: 896,
+    question: "What is a key benefit of conducting Material LCA for industries?",
+    options: ["Supporting corporate sustainability reporting", "Increasing sales", "Reducing labor cost", "Enhancing advertisement"],
+    correct: 0
+  },
+  {
+    id: 897,
+    question: "Which stage converts raw materials into usable forms such as metal or plastic resins?",
+    options: ["Material Processing", "Manufacturing", "Use Phase", "Recycling"],
+    correct: 0
+  },
+  {
+    id: 898,
+    question: "Which is a common challenge in conducting LCA?",
+    options: ["Lack of data quality and availability", "Simplicity of the process", "Low cost of implementation", "Absence of uncertainty"],
+    correct: 0
+  },
+  {
+    id: 899,
+    question: "What does 'eco-design' in Material LCA focus on?",
+    options: ["Developing materials with lower environmental impact", "Designing aesthetically appealing materials", "Reducing design costs", "Improving product packaging"],
+    correct: 0
+  },
+  {
+    id: 900,
+    question: "The baseline environmental status includes which of the following?",
+    options: ["All of the above", "Water quality", "Noise levels", "Air quality"],
+    correct: 0
+  },
+  {
+    id: 901,
+    question: "Which of the following best defines a green building?",
+    options: ["A building designed to reduce environmental impact and improve occupant well-being", "A building painted with green color", "A building constructed only with glass and steel", "A building without any mechanical system"],
+    correct: 0
+  },
+  {
+    id: 902,
+    question: "LEED stands for:",
+    options: ["Leadership in Energy and Environmental Design", "Local Energy and Environmental Development", "Low Energy and Economic Design", "Leadership in Eco-friendly Design"],
+    correct: 0
+  },
+  {
+    id: 903,
+    question: "LCA stands for:",
+    options: ["Life Cycle Assessment", "Life Carbon Analysis", "Low Carbon Adaptation", "Long-term Climate Action"],
+    correct: 0
+  },
+  {
+    id: 904,
+    question: "Which material is considered a rapidly renewable green material?",
+    options: ["Bamboo", "Steel", "Cement", "Glass"],
+    correct: 0
+  },
+  {
+    id: 905,
+    question: "Which of the following helps in reducing the 'urban heat island effect'?",
+    options: ["Green roofs and vegetation cover", "Dark asphalt roofing", "Concrete paving", "Large glass facades"],
+    correct: 0
+  },
+  {
+    id: 906,
+    question: "Which of the following paints is eco-friendly?",
+    options: ["Low-VOC paints", "Oil-based paints", "High-VOC paints", "Lead-based paints"],
+    correct: 0
+  },
+  {
+    id: 907,
+    question: "Which of the following is not an example of renewable energy used in green buildings?",
+    options: ["Nuclear Energy", "Wind energy", "Solar energy", "Geothermal energy"],
+    correct: 0
+  },
+  {
+    id: 908,
+    question: "Indoor Environmental Quality (IEQ) in green buildings emphasizes:",
+    options: ["Air, lighting, and acoustics quality", "Building height", "Decorative features", "Number of floors"],
+    correct: 0
+  },
+  {
+    id: 909,
+    question: "Which Indian standard promotes energy efficiency in buildings?",
+    options: ["ECBC (Energy Conservation Building Code)", "IS 456", "IS 800", "IRC Codes"],
+    correct: 0
+  },
+  {
+    id: 910,
+    question: "Green concrete is produced by replacing cement with:",
+    options: ["Fly ash, GGBS, or recycled aggregates", "Sand and water", "Clay", "Marble powder only"],
+    correct: 0
+  },
+  {
+    id: 911,
+    question: "The concept of sustainable habitat mainly aims at:",
+    options: ["Environmental, social, and economic balance", "Fast construction of buildings", "Maximum profit for builders", "Luxury development"],
+    correct: 0
+  },
+  {
+    id: 912,
+    question: "Which of the following materials is commonly used for thermal insulation in green buildings?",
+    options: ["Cork", "Asbestos sheets", "Lead", "Plastic"],
+    correct: 0
+  },
+  {
+    id: 913,
+    question: "What is the main challenge in implementing green buildings?",
+    options: ["High initial investment and lack of awareness", "Low energy savings", "Unavailability of workers", "Government restrictions"],
+    correct: 0
   }
 ];
 
