@@ -5240,7 +5240,7 @@ class ESSQuizApp {
     id: 873,
     question: "What is the primary difference in scope between zero waste and the circular economy?",
     options: ["Zero waste focuses on waste minimization at the endpoint, while the circular economy addresses the entire life cycle, including product design.", "Zero waste focuses exclusively on recycling, while the circular economy focuses on repair.", "Zero waste is an environmental movement, while the circular economy is only an economic model.", "Zero waste applies only to consumer behaviour, while the circular economy applies only to businesses."],
-    correct: 0
+    correct: 1
   },
   {
     id: 874,
